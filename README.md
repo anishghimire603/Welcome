@@ -12,6 +12,7 @@
 
 ## Resources:
 - Insert link to OS projects here
+  - <a href ="https://github.com/firstcontributions/first-contributions"> First Contributions </a>
 
 ## General Rules:
 - Do not label someone else’s work as your own.
